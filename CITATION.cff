@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Argo Recovery Economic Analysis"
+message: "If you use this repository, please cite the associated publication and this software repository."
+type: software
+
+authors:
+  - family-names: "González-Santana"
+    given-names: "Alberto"
+  - family-names: "Miret-Pastor"
+    given-names: "Luis"
+  - family-names: "Carranza"
+    given-names: "Magdalena"
+  - family-names: "Díaz-Barroso"
+    given-names: "Lara"
+  - family-names: "Vélez-Belchí"
+    given-names: "Pedro"
+
+repository-code: "https://github.com/Alberto-GS/argo-recovery-economic-analysis"
+
+license: MIT
