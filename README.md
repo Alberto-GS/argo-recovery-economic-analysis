@@ -12,6 +12,18 @@ The analysis evaluates the economic value of recovering and redeploying Argo flo
 
 The repository includes the raw datasets used in the analysis, the Python code implementing the sensitivity and Monte Carlo analyses, and the figures generated for the study.
 
+# Reproducibility
+The Python scripts can be used to reproduce the sensitivity and Monte Carlo analyses described in the paper and to generate the corresponding figures. The analysis is designed to run without local file paths, allowing the code to be reproduced on other systems.
+
+# Associated publication
+[Full title of the paper]
+
+# Authors: Alberto González Santana et al.
+The manuscript has been submitted as a preprint and is currently undergoing moderation.
+
+#License
+The code in this repository is released under the MIT License.
+
 ## Repository structure
 
 ```text
@@ -21,11 +33,4 @@ argo-recovery-economic-analysis/
 ├── figures/
 └── supplementary/
 
-Reproducibility
-The Python scripts can be used to reproduce the sensitivity and Monte Carlo analyses described in the paper and to generate the corresponding figures. The analysis is designed to run without local file paths, allowing the code to be reproduced on other systems.
-Associated publication
-[Full title of the paper]
-Authors: Alberto González Santana et al.
-The manuscript has been submitted as a preprint and is currently undergoing moderation.
-License
-The code in this repository is released under the MIT License.
+
