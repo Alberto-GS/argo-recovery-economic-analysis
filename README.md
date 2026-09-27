@@ -11,7 +11,7 @@ The analysis evaluates the economic value of recovering and redeploying Argo flo
 - BGC (O₂)
 - BGC (O₂, FLBB)
 - BGC (+3)
-- 
+  
 This repository provides the datasets, Python code, and figures supporting the sensitivity and Monte Carlo analyses presented in the study, developed and implemented by co-author Lluis Miret Pastor.
 
 # Reproducibility
@@ -20,10 +20,10 @@ The Python scripts can be used to reproduce the sensitivity and Monte Carlo anal
 # Associated publication
 [Full title of the paper]
 
-# Authors: Alberto González Santana et al.
+# Authors: Alberto González-Santana, Luis Miret-Pastor, Magdalena Carranza, Lara Díaz-Barroso and Pedro Vélez-Belchí.
 The manuscript has been submitted as a preprint and is currently undergoing moderation.
 
-#License
+# License
 The code in this repository is released under the MIT License.
 
 # Repository structure
