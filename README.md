@@ -18,7 +18,7 @@ This repository provides the datasets, Python code, and figures supporting the s
 The Python scripts can be used to reproduce the sensitivity and Monte Carlo analyses described in the paper and to generate the corresponding figures. The analysis is designed to run without local file paths, allowing the code to be reproduced on other systems.
 
 # Associated publication
-[Full title of the paper]
+Assessing the economic viability of Argo float recovery: A probabilistic, float-type specific analysis under operational uncertainty.
 
 # Authors: 
 Alberto González-Santana, Luis Miret-Pastor, Magdalena Carranza, Lara Díaz-Barroso and Pedro Vélez-Belchí.
@@ -35,6 +35,5 @@ argo-recovery-economic-analysis/
 ├── data/
 ├── code/
 ├── figures/
-└── supplementary/
 
 
