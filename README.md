@@ -20,7 +20,8 @@ The Python scripts can be used to reproduce the sensitivity and Monte Carlo anal
 # Associated publication
 [Full title of the paper]
 
-# Authors: Alberto González-Santana, Luis Miret-Pastor, Magdalena Carranza, Lara Díaz-Barroso and Pedro Vélez-Belchí.
+# Authors: 
+Alberto González-Santana, Luis Miret-Pastor, Magdalena Carranza, Lara Díaz-Barroso and Pedro Vélez-Belchí.
 The manuscript has been submitted as a preprint and is currently undergoing moderation.
 
 # License
