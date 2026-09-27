@@ -1,0 +1,33 @@
+# Supplementary Code S1
+
+**Title:** *Assessing the economic viability of Argo float recovery: A probabilistic, float-type specific analysis under operational uncertainty*
+
+## File included
+
+- `Supplementary_Code_S1.py`
+
+## Purpose
+
+This script reproduces all deterministic and probabilistic analyses presented in the manuscript, including:
+
+- **Table 2:** Deterministic baseline model
+- **Figure 1:** Sensitivity analysis
+- **Figure 2:** Mission-level ECUF analysis
+- **Table 3:** Monte Carlo simulation results
+- **Figure 3:** Distribution of ECUF outcomes
+- **Table 5:** Cost-per-profile calculations
+
+## Software requirements
+
+- Python 3.12
+- NumPy
+- Pandas
+- Matplotlib
+- Openpyxl
+
+## How to run
+
+Execute the following command from the `code/` directory:
+
+```bash
+python Supplementary_Code_S1.py
