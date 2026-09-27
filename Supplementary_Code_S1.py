@@ -1,6 +1,6 @@
 """
 Supplementary Material S1
-Supplementary_Code_ArgoRecovery.py
+code/Supplementary_Code_ArgoRecovery.py
 
 Code used to reproduce:
 - Table 2 (Deterministic baseline model)
